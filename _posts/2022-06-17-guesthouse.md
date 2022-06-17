@@ -4,26 +4,21 @@ title:  "아무튼 게스트 하우스"
 date:   2022-06-17 12:26:10 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+여행기, 여행정보서, 자서전을 살짝살짝 섞어 쓴 퓨전에세이.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+필자가 해외여행을 숱하게 다녔다는 건 책 중반 쯤에 알게 된다.
 
-Jekyll also offers powerful support for code snippets:
+젊으니만큼 값싼 게스트하우스에서 묵길 즐겼다.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+게다가 게스트하우스는 미지의 사람들을 만나게도 해준다.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+게스트하우스, 여행, 사람.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+거기에 버무려진, 이제 30대 시니어인 필자의 진로.
+
+그에 대한 단상.
+
+
+
