@@ -39,7 +39,7 @@ image: https://post-phinf.pstatic.net/MjAxNzEwMTNfMTE4/MDAxNTA3ODgzNzIzNDkx.-enW
 
 본격적인 기계의 굉음이 쉬지 않고 밀려들어온다.
 
-게다가 그곳이 인도라면 으르렁대는 정도로 끝나지 않고..(후략)"
+게다가 그곳이 ㅇㅇ라면 으르렁대는 정도로 끝나지 않고..(후략)"
 
 <br>
 
