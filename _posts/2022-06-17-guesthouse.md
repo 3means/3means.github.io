@@ -3,6 +3,7 @@ layout: post
 title:  "『아무튼, 게스트하우스』"
 date:   2022-06-17 12:26:10 +0900
 categories: jekyll update
+image: https://post-phinf.pstatic.net/MjAxNzEwMTNfMTE4/MDAxNTA3ODgzNzIzNDkx.-enWYWXNH3Tb50cUNPbQmMRkkUhmwGNerczfkxBR3D8g.URSP0In4NUCaCNQ5iOz8gOt4IwGfPpZBxVAjK__JZcsg.JPEG/image_4221987881507883716111.jpg
 ---
 
 
