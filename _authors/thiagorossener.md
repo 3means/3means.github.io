@@ -1,8 +1,8 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: iSteven
-display_name: iSteven
+name: Steven
+display_name: Steven
 position: Blogger
 bio: 촛불을 들고 초콜렛을 태우면서 끝없는 계단 속으로 들어간다.
 #github_username: thiagorossener
