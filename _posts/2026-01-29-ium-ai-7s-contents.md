@@ -1,12 +1,20 @@
 ---
 layout: post
-title:  "『이윰 - AI 아트의 일곱 가지 창의성』 목차 및 소제목 정리"
+title:  "『이윰 - AI 아트의 일곱 가지 창의성』 목차에 없는 소제목 정리"
 date:   2026-01-29 15:03:10 +0900
 categories: read
-image: https://post-phinf.pstatic.net/MjAxNzEwMTNfMTE4/MDAxNTA3ODgzNzIzNDkx.-enWYWXNH3Tb50cUNPbQmMRkkUhmwGNerczfkxBR3D8g.URSP0In4NUCaCNQ5iOz8gOt4IwGfPpZBxVAjK__JZcsg.JPEG/image_4221987881507883716111.jpg
+image: https://cdn.jsdelivr.net/gh/3means/3means.github.io@main/src/img/26-01-29/1.jpg
 ---
 
-<br> <br><style type="text/css">
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/3means/3means.github.io@main/src/img/26-01-29/1.jpg" style="width: 70%;">
+
+책의 정식 목차에 나와 있지 않는 소제목들을 아래와 같이 표로 정리해봤습니다.
+
+<br>
+
+ <br><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
