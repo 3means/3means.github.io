@@ -17,9 +17,9 @@ image: https://cdn.jsdelivr.net/gh/3means/3means.github.io@main/src/img/26-01-31
 <table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft">
 <tbody>
 <tr>
-<td style="width: 30.5814%;"><img src="https://cdn.jsdelivr.net/gh/3means/3means.github.io@main/src/img/26-01-29/cover.jpg" width="193" height="130" /></td>
+<td style="width: 30.5814%;"><a href="https://3means.github.io/ium-ai-7s-contents/" target="_blank" rel="noopener"> <img src="https://cdn.jsdelivr.net/gh/3means/3means.github.io@main/src/img/26-01-29/cover.jpg" width="193" height="130" /> </a></td>
 <td style="width: 69.4186%;">
-<h3 style="color: #000000; text-align: start;" data-ke-size="size23">『이윰 - AI 아트의 일곱 가지 창의성』 목차에 없는 소제목 정리</h3>
+<h3 style="color: #000000; text-align: start;" data-ke-size="size23"><a href="https://3means.github.io/ium-ai-7s-contents/" target="_blank" rel="noopener">『이윰 - AI 아트의 일곱 가지 창의성』 목차에 없는 소제목 정리</a></h3>
 </td>
 </tr>
 </tbody>
